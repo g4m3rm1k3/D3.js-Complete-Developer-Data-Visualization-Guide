@@ -1,0 +1,26 @@
+/* * {
+	overflow: hidden;
+} */
+body {
+	margin: 0;
+	padding: 0;
+}
+
+div.tooltip {
+	position: absolute;
+	width: 200px;
+	height: 80px;
+
+	font: 12px Helvetica, sans-serif;
+	background: lightcyan;
+	border-radius: 5px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: middle;
+	border: 1px solid black;
+	pointer-events: none;
+}
+p {
+	padding: 0;
+}

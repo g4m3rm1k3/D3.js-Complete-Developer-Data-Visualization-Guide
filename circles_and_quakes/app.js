@@ -15,3 +15,7 @@ d3.json('test.json').then((data) => {
 		.attr('y', (d, i) => 100 - d.height * 2)
 		.attr('x', (d, i) => i * 25);
 });
+
+d3.json(
+	'https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/significant_month.geojson'
+).then((data) => console.log(data));

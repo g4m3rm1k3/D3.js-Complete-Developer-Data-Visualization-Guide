@@ -1,0 +1,11 @@
+[
+	{ "width": 35, "height": 400, "fill": "pink" },
+	{ "width": 35, "height": 140, "fill": "purple" },
+	{ "width": 35, "height": 440, "fill": "orange" },
+	{ "width": 35, "height": 124, "fill": "green" },
+	{ "width": 35, "height": 120, "fill": "gray" },
+	{ "width": 35, "height": 320, "fill": "red" },
+	{ "width": 35, "height": 100, "fill": "yellow" },
+	{ "width": 35, "height": 250, "fill": "magenta" },
+	{ "width": 35, "height": 900, "fill": "tan" }
+]
